@@ -11,3 +11,4 @@ power is 12 W on a 4 Ω load and 8 W on an 8 Ω
 The board has three 2-pin Molex inputs: ***Vcc* (Power)**, ***Vs* (Audio input)** and ***RL* (Audio output)**
 
 # Image Gallery
+![Finished board](images/FinishedBoard.png)
