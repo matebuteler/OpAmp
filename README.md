@@ -8,7 +8,7 @@ From the TDA2030's datasheet:
 power is 12 W on a 4 Ω load and 8 W on an 8 Ω
 (DIN45500).*
 
-The board has three 2-pin Molex inputs: ***Vcc* (Power)**, ***Vs* (Audio input)** and ***RL* (Audio output)**
+The board has three 2-pin Molex connectors: ***Vcc* (Power)**, ***Vs* (Audio input)** and ***RL* (Audio output)**
 
 # Image Gallery
 ![Finished board](images/FinishedBoard.png)
